@@ -9,6 +9,8 @@
 <a href="#"><img alt="built with" src="https://img.shields.io/badge/Android Studio-pink.svg?style=flat-square"/></a>
 
 </p>
+<p align="center">
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/752/073/datas/original.png" width="250"/>
 
 ## Inspiration
 >We looked at ways for detect a package being stolen and we thought hardware solutions would best so we thought using detection of a "key" while the package is being moved as a solution and moving the package without the "key" would be unauthorized and count as being stolen.
